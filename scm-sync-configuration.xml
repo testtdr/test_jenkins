@@ -4,6 +4,6 @@
   <scmRepositoryUrl>scm:git:git@github.com:testtdr/test_jenkins.git</scmRepositoryUrl>
   <noUserCommitMessage>false</noUserCommitMessage>
   <displayStatus>true</displayStatus>
-  <commitMessagePattern>testing jenkins .... 1</commitMessagePattern>
+  <commitMessagePattern>[message]</commitMessagePattern>
   <manualSynchronizationIncludes/>
 </hudson.plugins.scm__sync__configuration.ScmSyncConfigurationPlugin>
